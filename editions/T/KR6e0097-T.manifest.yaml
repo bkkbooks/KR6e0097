@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR6e0097/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0097/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金師子章雲間類解
+  identifiers:
+    krp: KR6e0097
+    cbeta: T45n1880
+    cbeta_old_id: T45n1880
+    authorityid: CA0001371
+    json_key: T1880
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1880.xml
+    old_id: T45n1880
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0097_000-T.yaml, hash: 'sha256:5ca371139121fcde2a550a6b64ce01672714e091a7c4c0ffc4b54bfbfa332405'}
+  - {seq: 1, filename: KR6e0097_001-T.yaml, hash: 'sha256:18515bb3a817ef11783839c0fca355cdcc5f5ee890acf97f8df6a167edb99ad7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0097_000-T.markers.yaml, hash: 'sha256:e2964bc98c5ecf71a62c4e6524e9e511f62435e003398937e9ba1ec2634ec67a'}
+  - {seq: 1, role: markers, filename: assets/KR6e0097_001-T.markers.yaml, hash: 'sha256:c6f25490bbad9983667b17544d89ac6af327c5ba3b2989734d3411eff9419a45'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4706
+  label: 金師子章雲間類解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-1
+    span:
+    - body
+    - 819
+    - 819
+  label: 1 明緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-2
+    span:
+    - body
+    - 950
+    - 950
+  label: 2 辨色空
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-3
+    span:
+    - body
+    - 1139
+    - 1139
+  label: 3 約三性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-4
+    span:
+    - body
+    - 1370
+    - 1370
+  label: 4 顯無相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-5
+    span:
+    - body
+    - 1478
+    - 1478
+  label: 5 說無生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-6
+    span:
+    - body
+    - 1653
+    - 1653
+  label: 6 論五教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-7
+    span:
+    - body
+    - 2562
+    - 2562
+  label: 7 勒十玄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-8
+    span:
+    - body
+    - 3870
+    - 3870
+  label: 8 括六相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-9
+    span:
+    - body
+    - 4026
+    - 4026
+  label: 9 成菩提
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0097_T_001-mulu-10
+    span:
+    - body
+    - 4418
+    - 4418
+  label: 10 入涅槃
+  type: mulu
+  level: 1
+hash: sha256:d2a85970680aecf218a503997a5fa47ec1167a56cef64d9ef1c2c78b8bbd0437

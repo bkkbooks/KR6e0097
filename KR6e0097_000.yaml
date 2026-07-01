@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0097/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金師子章雲間類解
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1880.xml
+    old_id: T45n1880
+hash: sha256:5ca371139121fcde2a550a6b64ce01672714e091a7c4c0ffc4b54bfbfa332405
