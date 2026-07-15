@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0097/v1
 canonical_location: https://kanripo.org/bkk/KR6e0097/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金師子章雲間類解
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6e0097_000.yaml, hash: 'sha256:5ca371139121fcde2a550a6b64ce01672714e091a7c4c0ffc4b54bfbfa332405'}
-  - {seq: 1, filename: KR6e0097_001.yaml, hash: 'sha256:18515bb3a817ef11783839c0fca355cdcc5f5ee890acf97f8df6a167edb99ad7'}
+  - {seq: 1, filename: KR6e0097_001.yaml, hash: 'sha256:061d06c3d16dc6566d4f2188de6a8181f2a520c39451a2d3224be720e494200d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0097_000.markers.yaml, hash: 'sha256:f829af3ced1e4a6c60d382a5ea265c1136a6d1c085394ccd15613bdd238674c1'}
-  - {seq: 1, role: markers, filename: assets/KR6e0097_001.markers.yaml, hash: 'sha256:a302cd4caa4ac1dd3f12cbbfb39f8d7aac643a32fcf2d6bb2c594f799d6cf80b'}
+  - {seq: 1, role: markers, filename: assets/KR6e0097_001.markers.yaml, hash: 'sha256:6b13ad24fbc7d4b501a0738adec2ba5c0d4ce54f8509e2282d2563ffcb509fc4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -132,6 +132,9 @@ table_of_contents:
   label: 10 入涅槃
   type: mulu
   level: 1
-hash: sha256:4e43b4bd827508e508fe9ea6d0caa94fd63502423dc7e596768e0545ec9cd06f
+hash: sha256:7ed89e12a8ee0fe64b0e5efd44032f95516d462fece0e9163f1b91fecd9af5f3
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
